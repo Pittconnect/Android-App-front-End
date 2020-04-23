@@ -1,9 +1,8 @@
-# CoEpi for Android
+# HealthParameters for Android
 
-This is the repository for the Android implementation of CoEpi. See [CoEpi.org/vision](https://www.coepi.org/vision) for background, and see the rest of our CoEpi repositories [here](https://github.com/Co-Epi). 
+This is the repository for the Android implementation of HealthParameters forked version of CoEpi on 4-18-2020. See [CoEpi.org/vision](https://www.coepi.org/vision) for background, and see the rest of our CoEpi repositories [here](https://github.com/Co-Epi). 
 
 ## Contribute
-
 
 1. Read the [code guidelines](https://github.com/Co-Epi/app-android/wiki/Code-guidelines).
 2. Fork or Branch
@@ -11,3 +10,5 @@ This is the repository for the Android implementation of CoEpi. See [CoEpi.org/v
     - If you don't belong to the organization: Fork and create a branch in the fork
 3. Commit changes to the branch
 4. Push your code and make a pull request
+
+
